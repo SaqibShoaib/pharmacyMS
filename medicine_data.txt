@@ -1,0 +1,17 @@
+1       Panadol             GKS     20mg    2   25
+2		Jazeta				HKSR	25mg	25  400
+3		Extor				RKEHDS	40mg	25  200
+4		ABC				    XYZ	    20mg	20	200
+5		ABC 				XYZ 	25mg	25	300
+6		ABC 				XYZ 	30mg	30	350
+7		ABC 				XYZ 	20mg	35	400
+8		ABC 				XYZ 	50mg	50	500
+9		TEST				TEST	20mg	4	492
+9		TEST2				TEST2	30mg	4	492
+9		TEST3				TEST3	25mg	4	492
+10		xyz				abc	25mg	25	482
+11		xyz				abc	40mg	40	332
+12		abc				xyz	50mg	50	50
+13		abc				xyz	20mg	23	232
+14		wwe				yui	45	44	445
+15		rtu				erd	45mg	6	567
